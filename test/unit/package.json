@@ -4,8 +4,5 @@
   "private": true,
   "scripts": {
     "test": "jest"
-  },
-  "devDependencies": {
-    "jest": "^27.3.1"
   }
 }
